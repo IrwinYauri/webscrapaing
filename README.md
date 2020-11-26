@@ -8,3 +8,5 @@
 * https://stackoverflow.com/questions/64927059/sessionnotcreatedexception-message-session-not-created-this-version-of-chrome
 * https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
 * https://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22/
+* http://allselenium.info/wait-for-elements-python-selenium-webdriver/
+* https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/
