@@ -10,3 +10,4 @@
 * https://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22/
 * http://allselenium.info/wait-for-elements-python-selenium-webdriver/
 * https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/
+* https://selenium-python.readthedocs.io/locating-elements.html
